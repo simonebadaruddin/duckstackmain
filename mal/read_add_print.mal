@@ -1,4 +1,0 @@
-# Sum of two inputs
-x = read;
-y = read;
-print x + y;
